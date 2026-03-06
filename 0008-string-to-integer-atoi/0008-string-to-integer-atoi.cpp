@@ -1,8 +1,6 @@
 class Solution {
 public:
 
-bool isNeg = false;
-
     int myAtoi(string s) {
         
         int i = 0;
