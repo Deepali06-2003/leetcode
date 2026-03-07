@@ -1,24 +1,12 @@
 class Solution {
 public:
 
-long long solve(int i,int j,string &s,string &t,int n,int m,vector<vector<long long>>&dp){
 
-    if(j == m) return 1;
-    if(i == n) return 0;
-    if(n - i < m - j) return 0;
-
-    if(dp[i][j] != -1) return dp[i][j];
-
-    if(s[i] == t[j])
-        return dp[i][j] = solve(i+1,j+1,s,t,n,m,dp) + solve(i+1,j,s,t,n,m,dp);
-
-    return dp[i][j] = solve(i+1,j,s,t,n,m,dp);
-}
 
     int numDistinct(string s, string t) {
         int n=s.size();
         int m=t.size();
-        vector<vector<long long>>dp(n+1,vector<long long>(m+1,0));
+        vector<vector<double>>dp(n+1,vector<double>(m+1,0));
 
         for(int i = 0;i<=n;i++)dp[i][0] = 1;
 
@@ -34,6 +22,6 @@ long long solve(int i,int j,string &s,string &t,int n,int m,vector<vector<long l
             }
         }
 
-        return dp[n][m];
+        return (int)dp[n][m];
     }
 };
