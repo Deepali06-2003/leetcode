@@ -5,6 +5,7 @@ long long solve(int i,int j,string &s,string &t,int n,int m,vector<vector<long l
 
     if(j == m) return 1;
     if(i == n) return 0;
+    if(n - i < m - j) return 0;
 
     if(dp[i][j] != -1) return dp[i][j];
 
@@ -17,7 +18,7 @@ long long solve(int i,int j,string &s,string &t,int n,int m,vector<vector<long l
     int numDistinct(string s, string t) {
         int n=s.size();
         int m=t.size();
-        vector<vector<long long>>dp(n+1,vector<long long>(m+1,-1));
+        vector<vector<long long>>dp(n,vector<long long>(m,-1));
         return solve(0,0,s,t,n, m , dp);
     }
 };
