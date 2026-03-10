@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Deepali06-2003/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Deepali06-2003/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0139-word-break](https://github.com/Deepali06-2003/leetcode/tree/main/0139-word-break/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Deepali06-2003/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/Deepali06-2003/leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Deepali06-2003/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Deepali06-2003/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/Deepali06-2003/leetcode/tree/main/0139-word-break/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Deepali06-2003/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/Deepali06-2003/leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Deepali06-2003/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
