@@ -14,7 +14,8 @@ public:
                 int k = j+1, l = n-1;
 
                 while(k<l){
-                    long long s = nums[i]+nums[j]+nums[k]+nums[l];
+                    long long s = nums[i]+nums[j];
+                    s = s+nums[k]+nums[l];
 
                     if(s == target){
                         res.push_back({nums[i], nums[j], nums[k], nums[l]});
