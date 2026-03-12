@@ -15,7 +15,6 @@ public:
             }
         }
 
-        //for(int j =0;j<=rowIndex;j++)ans.push_back(dp[rowIndex][j]);
         return dp[rowIndex];
     }
 };
