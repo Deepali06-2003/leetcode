@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Deepali06-2003/leetcode/tree/main/0018-4sum/) | Medium |
 | [0048-rotate-image](https://github.com/Deepali06-2003/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Deepali06-2003/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0057-insert-interval](https://github.com/Deepali06-2003/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0139-word-break](https://github.com/Deepali06-2003/leetcode/tree/main/0139-word-break/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Deepali06-2003/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
