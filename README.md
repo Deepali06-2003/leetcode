@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Deepali06-2003/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Deepali06-2003/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/Deepali06-2003/leetcode/tree/main/0139-word-break/) | Medium |
+| [0202-happy-number](https://github.com/Deepali06-2003/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
 ## Dynamic Programming
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Deepali06-2003/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Deepali06-2003/leetcode/tree/main/0050-powx-n/) | Medium |
+| [0202-happy-number](https://github.com/Deepali06-2003/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Deepali06-2003/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Deepali06-2003/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Linked List
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Deepali06-2003/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Deepali06-2003/leetcode/tree/main/0018-4sum/) | Medium |
+| [0202-happy-number](https://github.com/Deepali06-2003/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Deepali06-2003/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Deepali06-2003/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Prefix Sum
