@@ -6,6 +6,7 @@ public:
         vector<int>arr(n, -1);
         stack<int>st;
 
+        //find next greater element
         for(int i =0;i<n;i++){
             while(!st.empty() && nums2[i]>nums2[st.top()]){
                 arr[st.top()] = nums2[i];
@@ -14,6 +15,7 @@ public:
             st.push(i);
         }
 
+        // to keep check of index 
         unordered_map<int,int> mp;
         for(int i = 0; i < n; i++){
             mp[nums2[i]] = i;
@@ -21,8 +23,8 @@ public:
 
         vector<int>res;
         for(int i : nums1){
-            int idx = mp[i];
-            res.push_back(arr[idx]);
+            
+            res.push_back(arr[mp[i]]);
         }
 
         return res;
