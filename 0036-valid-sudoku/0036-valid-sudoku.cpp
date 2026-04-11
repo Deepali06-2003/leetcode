@@ -34,9 +34,18 @@ bool boxes(vector<vector<char>>& board , int sr , int sc, int er, int ec){
                 st.insert(board[i][j]);
             }
         }
-        return boxes(board,0, 0, 2, 2) && boxes(board,0, 3, 2, 5) && boxes(board,0, 6, 2, 8) &&
-        boxes(board,3, 0, 5, 2)&& boxes(board,3, 3, 5, 5) && boxes(board,3, 6, 5, 8) &&
-        boxes(board,6, 0, 8, 2)&& boxes(board,6, 3, 8, 5) && boxes(board,6, 6, 8, 8);
+
+        for(int sr =0;sr<9; sr += 3){
+            int er = er+2;
+            for(int sc =0;sc<9;sc+= 3){
+                int ec = ec+2;
+
+                bool x = boxes(board , sr , sc , er , ec);
+                if(x== false)return false;
+            }
+        }
+
+        return true;
         
     }
 };
