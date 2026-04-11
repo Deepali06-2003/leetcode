@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali06-2003/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Deepali06-2003/leetcode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
+| [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Deepali06-2003/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deepali06-2003/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Hash Table
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0763-partition-labels](https://github.com/Deepali06-2003/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/Deepali06-2003/leetcode/tree/main/0846-hand-of-straights/) | Medium |
+| [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,10 +178,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/Deepali06-2003/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
