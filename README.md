@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Deepali06-2003/leetcode/tree/main/0743-network-delay-time/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Deepali06-2003/leetcode/tree/main/0139-word-break/) | Medium |
 | [0202-happy-number](https://github.com/Deepali06-2003/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Deepali06-2003/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0763-partition-labels](https://github.com/Deepali06-2003/leetcode/tree/main/0763-partition-labels/) | Medium |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Deepali06-2003/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Deepali06-2003/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepali06-2003/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepali06-2003/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/Deepali06-2003/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
