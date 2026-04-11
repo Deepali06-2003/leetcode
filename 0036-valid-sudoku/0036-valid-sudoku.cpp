@@ -35,13 +35,11 @@ bool boxes(vector<vector<char>>& board , int sr , int sc, int er, int ec){
             }
         }
 
-        for(int sr =0;sr<9; sr += 3){
-            int er = er+2;
-            for(int sc =0;sc<9;sc+= 3){
-                int ec = ec+2;
-
-                bool x = boxes(board , sr , sc , er , ec);
-                if(x== false)return false;
+        for(int sr = 0; sr < 9; sr += 3){
+            for(int sc = 0; sc < 9; sc += 3){
+                int er = sr + 2;
+                int ec = sc + 2;
+                if(!boxes(board, sr, sc, er, ec)) return false;
             }
         }
 
