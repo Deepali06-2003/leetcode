@@ -7,13 +7,14 @@ public:
 
         sort(intervals.begin() , intervals.end());
 
-        int ans =0 , e = intervals[0][1] ;
+        int ans=0;
+        int e = intervals[0][1];
+        
 
         for(int i =1;i<n;i++){
-
-            if(intervals[i][0] < e){
+            if(intervals[i][0]< e){
                 ans++;
-                e = min(e, intervals[i][1]);
+                e = min(e , intervals[i][1]);
             }
             else e = intervals[i][1];
         }
