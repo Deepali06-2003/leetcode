@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Deepali06-2003/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/Deepali06-2003/leetcode/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Deepali06-2003/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Deepali06-2003/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Deepali06-2003/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Deepali06-2003/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Deepali06-2003/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Deepali06-2003/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Deepali06-2003/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Deepali06-2003/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -326,5 +328,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Deepali06-2003/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Deepali06-2003/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
