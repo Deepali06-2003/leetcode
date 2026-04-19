@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepali06-2003/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/Deepali06-2003/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali06-2003/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepali06-2003/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Deepali06-2003/leetcode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Deepali06-2003/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/Deepali06-2003/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Deepali06-2003/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Deepali06-2003/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepali06-2003/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
