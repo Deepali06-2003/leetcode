@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/Deepali06-2003/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0202-happy-number](https://github.com/Deepali06-2003/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Deepali06-2003/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Deepali06-2003/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Deepali06-2003/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2652-sum-multiples](https://github.com/Deepali06-2003/leetcode/tree/main/2652-sum-multiples/) | Easy |
 ## Linked List
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/Deepali06-2003/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
