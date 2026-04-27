@@ -14,7 +14,8 @@ double helper(double x, long long n){
         if(n ==0)return 1;
         if(n<0) {
            // int N = -n;
-            long long N = -n;
+            long long N = n;
+            N = -N;
             return helper(1.0/x, N);
         }
         return helper(x, n);
