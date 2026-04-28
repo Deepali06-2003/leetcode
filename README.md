@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Deepali06-2003/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Deepali06-2003/leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Deepali06-2003/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Deepali06-2003/leetcode/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepali06-2003/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/Deepali06-2003/leetcode/tree/main/0036-valid-sudoku/) | Medium |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Deepali06-2003/leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Deepali06-2003/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Deepali06-2003/leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Deepali06-2003/leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Deepali06-2003/leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Deepali06-2003/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Deepali06-2003/leetcode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepali06-2003/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0202-happy-number](https://github.com/Deepali06-2003/leetcode/tree/main/0202-happy-number/) | Easy |
