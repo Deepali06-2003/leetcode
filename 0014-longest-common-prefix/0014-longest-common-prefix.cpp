@@ -1,24 +1,24 @@
 class Solution {
 public:
-string helper(string x1 , string x2){
+string helper(string& ans , string& s){
+    string res="";
+    int l =0, r=0;
+    while(l<ans.size() && r<s.size()){
 
-    string ans = "";
-    int i =0, j=0;
-
-    while(i<x1.size() && j<x2.size() ){
-        if(x1[i] == x2[j]){
-            ans = ans+x1[i];
-            i++; j++;
-        }
-        else return ans;
+        if(ans[l] == s[r]) res = res + ans[l];
+        else return res;
+        l++;
+        r++;
     }
-    return ans;
+    return res;
 }
     string longestCommonPrefix(vector<string>& strs) {
         
         string ans = strs[0];
-        for(int i =1 ;i<strs.size() ;i++){
+        for(int i =1;i<strs.size();i++){
             ans = helper(ans , strs[i]);
+
+            if(ans == "")return ans;
         }
         return ans;
     }
