@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Deepali06-2003/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Deepali06-2003/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/Deepali06-2003/leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepali06-2003/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0134-gas-station](https://github.com/Deepali06-2003/leetcode/tree/main/0134-gas-station/) | Medium |
 | [0139-word-break](https://github.com/Deepali06-2003/leetcode/tree/main/0139-word-break/) | Medium |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Deepali06-2003/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepali06-2003/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/Deepali06-2003/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Deepali06-2003/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Deepali06-2003/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepali06-2003/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Deepali06-2003/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
