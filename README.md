@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Deepali06-2003/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Deepali06-2003/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Deepali06-2003/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Deepali06-2003/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/Deepali06-2003/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0079-word-search](https://github.com/Deepali06-2003/leetcode/tree/main/0079-word-search/) | Medium |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Deepali06-2003/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Deepali06-2003/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/Deepali06-2003/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Deepali06-2003/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0212-word-search-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0212-word-search-ii/) | Hard |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Deepali06-2003/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Deepali06-2003/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
