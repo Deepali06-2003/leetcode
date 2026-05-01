@@ -1,6 +1,7 @@
 class MedianFinder {
 public:
 
+
     priority_queue<int>max_heap;
     priority_queue<int, vector<int>, greater<int>> min_heap;
 
@@ -9,7 +10,7 @@ public:
     
     void addNum(int num) {
         
-        if(max_heap.empty() || max_heap.top() == num ) max_heap.push(num);
+        if(max_heap.empty() || max_heap.top() >= num ) max_heap.push(num);
         else min_heap.push(num);
 
         if(min_heap.size() > max_heap.size() ){
