@@ -3,10 +3,6 @@ public:
     int maxProfit(int k, vector<int>& prices) {
         
         int n = prices.size();
-        int ans=0;
-        
-                           // i , buy , ans
-       // return helper(k , prices , 0 , 1, ans);
 
        vector<vector<vector<int>>>dp(n+1 , vector<vector<int>>(2, vector<int>(k+1 , 0)));
 
