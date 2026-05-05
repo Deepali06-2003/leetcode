@@ -2,16 +2,18 @@ class Solution {
 public:
 bool helper(string s1, string s2, string s3, int n , int m , vector<vector<int>>& dp, int i , int j){
 
-    if((i==n) && (j==m) && ((n+m) ==s3.size()) )return true;
-    if((i+j) >= s3.size()) return false;
+    if(i == n && j==m && (i+j)==s3.size())return true;
+
+    if((i+j) >= s3.size())return false;
     if(dp[i][j]!= -1)return dp[i][j];
 
     bool ans = false;
-    if(s1[i] == s3[i+j]) ans= helper(s1 , s2 , s3 , n , m , dp , i+1, j);
+    if(s1[i] == s3[i+j]) ans = helper(s1, s2, s3, n ,m, dp, i+1, j);
+    if(ans)return dp[i][j]=true;
 
-    if(ans) return dp[i][j]= true;
-    if(s2[j] == s3[i+j]) ans= helper(s1 , s2 , s3 , n , m , dp , i, j+1);
-    return dp[i][j]= ans;
+    if(s2[j] == s3[i+j]) ans = helper(s1, s2, s3, n ,m, dp, i, j+1);
+
+    return dp[i][j]=ans;
 }
     bool isInterleave(string s1, string s2, string s3) {
         int n = s1.size();
