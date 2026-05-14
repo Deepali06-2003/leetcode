@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0437-path-sum-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/Deepali06-2003/leetcode/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/Deepali06-2003/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Deepali06-2003/leetcode/tree/main/0207-course-schedule/) | Medium |
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Deepali06-2003/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Deepali06-2003/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -60,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0437-path-sum-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
