@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0437-path-sum-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/Deepali06-2003/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Deepali06-2003/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0437-path-sum-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
