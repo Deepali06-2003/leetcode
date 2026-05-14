@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Deepali06-2003/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Deepali06-2003/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Deepali06-2003/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Deepali06-2003/leetcode/tree/main/0016-3sum-closest/) | Medium |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Deepali06-2003/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/Deepali06-2003/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Deepali06-2003/leetcode/tree/main/0055-jump-game/) | Medium |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepali06-2003/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/Deepali06-2003/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Deepali06-2003/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Deepali06-2003/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Deepali06-2003/leetcode/tree/main/0018-4sum/) | Medium |
