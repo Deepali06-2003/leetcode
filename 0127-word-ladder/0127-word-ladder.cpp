@@ -2,39 +2,38 @@ class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         
-        queue<pair<string, int>>q;
-        unordered_set<string >st(wordList.begin(), wordList.end());
+        unordered_set<string>st;
+        for(string s : wordList) st.insert(s);
 
-        q.push({beginWord , 1});
-        st.erase(beginWord);      // make it visited
+        queue<pair<string, int>>q;
+        q.push({beginWord, 1});
+        st.erase(beginWord);
 
         while(!q.empty()){
 
-            string x = q.front().first;   // give the string 
-            int step = q.front().second;  // no of step
+            string word = q.front().first;
+            int step = q.front().second;
             q.pop();
 
-            if(x == endWord)return step;
+            if(word == endWord) return step;
+            
+            for(int i = 0; i<word.size() ;i++){
 
-            for(int i = 0; i < x.size(); i++) {
-                char original = x[i];             
-                 // now we will change character by character from a to z of each character of the string and
-                 // check if it is present in set
+                char original = word[i];
+                for(char c ='a' ; c<='z'; c++){
+                    word[i] = c;
 
-                for(char j = 'a'; j <= 'z'; j++) {
-                    x[i] = j;
+                    if(st.find(word) != st.end()){
 
-                    if(st.find(x) != st.end()) {     //if found in set then make it vivited and push in q;
-                        st.erase(x);
-                        q.push({x, step + 1});
+                        st.erase(word);
+                        q.push({word, step+1});
                     }
                 }
 
-                x[i] = original;                    // cahnge it to original word
+                word[i] = original;
             }
         }
 
         return 0;
-
     }
 };
