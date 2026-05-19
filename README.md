@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Deepali06-2003/leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Deepali06-2003/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0148-sort-list](https://github.com/Deepali06-2003/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Deepali06-2003/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Deepali06-2003/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/Deepali06-2003/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Deepali06-2003/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Deepali06-2003/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/Deepali06-2003/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepali06-2003/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Deepali06-2003/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Deepali06-2003/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/Deepali06-2003/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/Deepali06-2003/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/Deepali06-2003/leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Deepali06-2003/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/Deepali06-2003/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Deepali06-2003/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -523,4 +527,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deepali06-2003/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Deepali06-2003/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Deepali06-2003/leetcode/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
