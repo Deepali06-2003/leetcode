@@ -10,29 +10,72 @@
  */
 class Solution {
 public:
-    ListNode* sortList(ListNode* head) {
-        if(head == NULL|| head->next ==NULL) return head;
 
-        ListNode* temp = head;
+ ListNode* findMid(ListNode* head){
 
-        vector<int>arr;
-        while(temp){
-            arr.push_back(temp->val);
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+
+        while(fast && fast->next){
+
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        return slow;
+}
+
+
+
+ListNode* merge(ListNode* left, ListNode* right){
+
+        ListNode dummy(0);
+        ListNode* temp = &dummy;
+
+        while(left && right){
+
+            if(left->val < right->val){
+
+                temp->next = left;
+                left = left->next;
+            }
+            else{
+
+                temp->next = right;
+                right = right->next;
+            }
+
             temp = temp->next;
         }
 
-        sort(arr.begin(), arr.end());
+        if(left)
+            temp->next = left;
 
-        ListNode* n_head = new ListNode(0);
-        ListNode* t = n_head;
+        if(right)
+            temp->next = right;
 
-        for(int i : arr){
-            t->next = new ListNode(i);
-            t = t->next;
-        }
+        return dummy.next;
+    }
 
-        return n_head->next;
+
+
+
+
+    ListNode* sortList(ListNode* head) {
+        if(head == NULL|| head->next ==NULL) return head;
+        //mid ele of ll
+        ListNode* mid = findMid(head);
+
+        // divide array into 2-parts
+        ListNode* f_half = head;
+        ListNode* s_half = mid->next;
+        mid->next = NULL;
+
+        //sort array
+        f_half = sortList(f_half);
+        s_half = sortList(s_half);
         
+        return merge(f_half , s_half);
         
     }
 };
