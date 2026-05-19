@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Deepali06-2003/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepali06-2003/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/Deepali06-2003/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/Deepali06-2003/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Deepali06-2003/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Deepali06-2003/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Deepali06-2003/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Deepali06-2003/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/Deepali06-2003/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Deepali06-2003/leetcode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Deepali06-2003/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Deepali06-2003/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/Deepali06-2003/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0202-happy-number](https://github.com/Deepali06-2003/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/Deepali06-2003/leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -425,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/Deepali06-2003/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/Deepali06-2003/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Deepali06-2003/leetcode/tree/main/0060-permutation-sequence/) | Hard |
+| [0143-reorder-list](https://github.com/Deepali06-2003/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0486-predict-the-winner](https://github.com/Deepali06-2003/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
