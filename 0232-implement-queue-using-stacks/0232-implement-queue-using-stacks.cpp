@@ -1,26 +1,25 @@
 class MyQueue {
-public:   //ele , peak ele;
-stack<int> st1;
+public:
+stack<int>st1;
 stack<int>st2;
 
     MyQueue() {}
     
     void push(int x) {
-        if(st1.size()==0){
+        if(st1.empty())
             st1.push(x);
-        }
 
         else{
-           while(!st1.empty()){
-            st2.push(st1.top());
-            st1.pop();
-           }
-           st1.push(x);
-           while(!st2.empty()){
-            st1.push(st2.top());
-            st2.pop();
-           }
 
+            while(!st1.empty()){
+                st2.push(st1.top());
+                st1.pop();
+            }
+            st1.push(x);
+            while(!st2.empty()){
+                st1.push(st2.top());
+                st2.pop();
+            }
         }
     }
     
@@ -33,13 +32,13 @@ stack<int>st2;
     }
     
     int peek() {
-        if(st1.empty())return -1;
+        if(st1.empty()) return -1;
+
         return st1.top();
     }
     
     bool empty() {
-        if(st1.empty())return true;
-
+        if(st1.size()== 0) return true;
         return false;
     }
 };
