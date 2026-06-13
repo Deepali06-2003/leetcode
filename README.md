@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Deepali06-2003/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Deepali06-2003/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Deepali06-2003/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Deepali06-2003/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Deepali06-2003/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Deepali06-2003/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Deepali06-2003/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Deepali06-2003/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Deepali06-2003/leetcode/tree/main/0148-sort-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Deepali06-2003/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Deepali06-2003/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/Deepali06-2003/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/Deepali06-2003/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Deepali06-2003/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -463,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Deepali06-2003/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Deepali06-2003/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/Deepali06-2003/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Deepali06-2003/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
