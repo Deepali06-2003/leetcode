@@ -41,14 +41,16 @@ ListNode* get_k(ListNode* temp , int k){
         while(temp != NULL){
 
             ListNode* k_node = get_k(temp , k);
+
             if(!k_node) break;
-            ListNode* nextTemp = k_node->next;
+            ListNode* n_temp = k_node->next;
             k_node->next = NULL;
+
 
             t_new->next = reverse(temp);
             t_new = temp;
-            temp->next = nextTemp;
-            temp = nextTemp;
+            temp->next = n_temp;
+            temp = n_temp;
 
         }
 
