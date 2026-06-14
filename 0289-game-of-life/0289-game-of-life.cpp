@@ -13,10 +13,10 @@ void helper(vector<vector<int>>& board ,vector<vector<int>>& temp, int n , int m
     }
     if(board[i][j]==1){
         if(c==2 || c==3) temp[i][j] = 1;
-        else temp[i][j] = -1;
+        else temp[i][j] = 0;
     }
     else{
-        if(c==3) temp[i][j] = 2;
+        if(c==3) temp[i][j] = 1;
         else temp[i][j] = 0;
     }
 
