@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Deepali06-2003/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Deepali06-2003/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Deepali06-2003/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Deepali06-2003/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Deepali06-2003/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Deepali06-2003/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Deepali06-2003/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0312-burst-balloons](https://github.com/Deepali06-2003/leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Deepali06-2003/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/Deepali06-2003/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Deepali06-2003/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/Deepali06-2003/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Deepali06-2003/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Deepali06-2003/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Deepali06-2003/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/Deepali06-2003/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Deepali06-2003/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Sweep Line
