@@ -1,22 +1,19 @@
 class Solution {
 public:
+int helper(int x){
 
-int helper(int n){
-    int c=0;
-    while(n!=0){
-        int r = n%2;
-        if(r == 1) c++;
-        n = n/2;
+    int c =0;
+    while(x!=0){
+        if((x%2)==1) c= c+1;
+        x= x/2;
     }
     return c;
 }
     vector<int> countBits(int n) {
-        vector<int>res(n+1, 0);
-        
-
-        for(int i =1;i<=n;i++){
-            res[i] = helper(i);
+        vector<int> ans(n+1, 0);
+        for(int i=1;i<=n;i++){
+            ans[i] = helper(i);
         }
-        return res;
+         return ans;
     }
 };
