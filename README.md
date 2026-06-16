@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0214-shortest-palindrome](https://github.com/Deepali06-2003/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/Deepali06-2003/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0412-fizz-buzz](https://github.com/Deepali06-2003/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepali06-2003/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Deepali06-2003/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Deepali06-2003/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Deepali06-2003/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Deepali06-2003/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Deepali06-2003/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0412-fizz-buzz](https://github.com/Deepali06-2003/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/Deepali06-2003/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Deepali06-2003/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Deepali06-2003/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Deepali06-2003/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/Deepali06-2003/leetcode/tree/main/0289-game-of-life/) | Medium |
+| [0412-fizz-buzz](https://github.com/Deepali06-2003/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Deepali06-2003/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
