@@ -3,21 +3,17 @@ public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
         
         int n = intervals.size();
-        if(n==0 || n==1)return 0;
-
         sort(intervals.begin() , intervals.end());
+        int c=0;
 
-        int ans=0;
-        int e = intervals[0][1];
-        
-
+        int s = intervals[0][0] , e =intervals[0][1];
         for(int i =1;i<n;i++){
-            if(intervals[i][0]< e){
-                ans++;
-                e = min(e , intervals[i][1]);
+            if(intervals[i][0] < e){
+                e= min(intervals[i][1], e);
+                c++;
             }
             else e = intervals[i][1];
         }
-        return ans;
+        return c;
     }
 };
