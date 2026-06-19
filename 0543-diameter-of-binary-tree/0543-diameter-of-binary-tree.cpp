@@ -25,6 +25,7 @@ int helper(TreeNode* root , int& ans){
     int diameterOfBinaryTree(TreeNode* root) {
         if(root == NULL) return 0;
         int ans =0;
-        return helper(root, ans);
+        helper(root, ans);
+        return ans;
     }
 };
