@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Deepali06-2003/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/Deepali06-2003/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepali06-2003/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0504-base-7](https://github.com/Deepali06-2003/leetcode/tree/main/0504-base-7/) | Easy |
 | [0567-permutation-in-string](https://github.com/Deepali06-2003/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Deepali06-2003/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Deepali06-2003/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/Deepali06-2003/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0412-fizz-buzz](https://github.com/Deepali06-2003/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/Deepali06-2003/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0504-base-7](https://github.com/Deepali06-2003/leetcode/tree/main/0504-base-7/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Deepali06-2003/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Deepali06-2003/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Deepali06-2003/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
