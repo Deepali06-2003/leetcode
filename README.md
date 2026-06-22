@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/Deepali06-2003/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/Deepali06-2003/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [1399-count-largest-group](https://github.com/Deepali06-2003/leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Deepali06-2003/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 ## Dynamic Programming
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Deepali06-2003/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/Deepali06-2003/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0504-base-7](https://github.com/Deepali06-2003/leetcode/tree/main/0504-base-7/) | Easy |
+| [1399-count-largest-group](https://github.com/Deepali06-2003/leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Deepali06-2003/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Deepali06-2003/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Deepali06-2003/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -567,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Deepali06-2003/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [1399-count-largest-group](https://github.com/Deepali06-2003/leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Deepali06-2003/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 ## Backtracking
