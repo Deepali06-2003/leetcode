@@ -1,19 +1,20 @@
 class Solution {
 public:
     string convertToBase7(int num) {
+
+        if(num == 0) return "0";
+
         string ans ="";
 
-        bool is_Neg = false;
-       if(num<0)is_Neg = true;
+        bool is_Neg = (num<0);
         
         while(num!=0){
             int d = num%7;
             ans = to_string(abs(d)) + ans;
-            //ans.append(to_string(d), 1);
             num = num/7;
         }
-        if(ans.empty()) return "0";
-        if(is_Neg == true) ans = "-" + ans;
+        
+        if(is_Neg) ans = "-" + ans;
         return ans;
     }
 };
