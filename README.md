@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Deepali06-2003/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Deepali06-2003/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/Deepali06-2003/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Deepali06-2003/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Deepali06-2003/leetcode/tree/main/0048-rotate-image/) | Medium |
