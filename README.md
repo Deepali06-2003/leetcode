@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Deepali06-2003/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Deepali06-2003/leetcode/tree/main/0079-word-search/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepali06-2003/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Deepali06-2003/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Deepali06-2003/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Deepali06-2003/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
