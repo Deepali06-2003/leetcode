@@ -12,39 +12,31 @@
 class Solution {
 public:
 
-TreeNode* first_ele = NULL;
-TreeNode* second_ele = NULL;
-TreeNode* prev = NULL;
+TreeNode* prev=NULL;
+TreeNode* f_ele=NULL;
+TreeNode* s_ele=NULL;
 
-void helper(TreeNode* root ){
+void helper(TreeNode* root){
     if(root == NULL)return;
 
     helper(root->left);
-    // link is broken
-    if(prev && prev->val > root->val) {
 
-            if(first_ele == NULL) {
-                first_ele = prev;
-                second_ele = root;
-            }
-            else {
-                second_ele = root;
-            }
+    if(prev && prev->val > root->val){
+        if(f_ele == NULL){
+            f_ele = prev;
+            s_ele = root;
         }
-
-        prev = root;
-
+        else s_ele = root;
+    }
+    
+    prev = root;
     helper(root->right);
 }
-
     void recoverTree(TreeNode* root) {
         
-        if(root == NULL)return;
-        if(root->left == NULL && root->right == NULL) return;
+        if(root == NULL) return;
 
         helper(root);
-        
-        swap(first_ele->val , second_ele->val);
+        swap(f_ele->val , s_ele->val);
     }
 };
-
