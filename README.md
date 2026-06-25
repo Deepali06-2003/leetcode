@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/Deepali06-2003/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/Deepali06-2003/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Deepali06-2003/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/Deepali06-2003/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Deepali06-2003/leetcode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepali06-2003/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/Deepali06-2003/leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0052-n-queens-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0052-n-queens-ii/) | Hard |
+| [0078-subsets](https://github.com/Deepali06-2003/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Deepali06-2003/leetcode/tree/main/0079-word-search/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Deepali06-2003/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -615,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Deepali06-2003/leetcode/tree/main/0078-subsets/) | Medium |
 | [0260-single-number-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Deepali06-2003/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Deepali06-2003/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
