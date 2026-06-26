@@ -3,24 +3,24 @@ public:
     int totalFruit(vector<int>& fruits) {
         
        int n = fruits.size();
+        unordered_map<int, int>mp;
+        int ans = 0;
 
-       unordered_map<int, int>mp;
-       int i=0, j=0;
-       int ans =0;
 
-       while(j < n){
-        mp[fruits[j]]++;
-
-        if(mp.size()<=2)
-            ans = max(ans , j-i+1);
-        else{
-            mp[fruits[i]]--;
-            if(mp[fruits[i]] == 0) mp.erase(fruits[i]);
-            i++;
+      int l =0, r=0;
+      while(r<n){
+        mp[fruits[r]]++;
+        
+        if(mp.size()>2){
+            mp[fruits[l]]--;
+            if(mp[fruits[l]] == 0) mp.erase(fruits[l]);
+            l++;
         }
 
-        j++;
-       }
-       return ans;
+        if(mp.size()<=2)
+            ans = max(ans , r-l+1);
+        r++;
+      }
+      return ans;
     }
 };
