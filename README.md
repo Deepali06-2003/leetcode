@@ -520,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0622-design-circular-queue](https://github.com/Deepali06-2003/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Deepali06-2003/leetcode/tree/main/0641-design-circular-deque/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Deepali06-2003/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0763-partition-labels](https://github.com/Deepali06-2003/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Deepali06-2003/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Deepali06-2003/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepali06-2003/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Prefix Sum
