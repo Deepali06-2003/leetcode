@@ -20,16 +20,10 @@ pair<int,int> helper(TreeNode* root) {
     auto left = helper(root->left);
     auto right = helper(root->right);
 
-    int rob =
-        root->val +
-        left.second +
-        right.second;
+    int rob = root->val + left.second + right.second;
+    int not_rob = max(left.first, left.second) +  max(right.first, right.second);
 
-    int notRob =
-        max(left.first, left.second) +
-        max(right.first, right.second);
-
-    return {rob, notRob};
+    return {rob, not_rob};
 }
     int rob(TreeNode* root) {
         auto ans = helper(root);
