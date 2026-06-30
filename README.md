@@ -531,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1399-count-largest-group](https://github.com/Deepali06-2003/leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Deepali06-2003/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Deepali06-2003/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1925-count-square-sum-triples](https://github.com/Deepali06-2003/leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/Deepali06-2003/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2652-sum-multiples](https://github.com/Deepali06-2003/leetcode/tree/main/2652-sum-multiples/) | Easy |
 ## Linked List
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/Deepali06-2003/leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deepali06-2003/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
