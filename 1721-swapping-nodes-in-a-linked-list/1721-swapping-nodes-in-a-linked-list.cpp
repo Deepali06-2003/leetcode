@@ -13,20 +13,28 @@ public:
     ListNode* swapNodes(ListNode* head, int k) {
         if(head == NULL || k==0) return head;
 
-         ListNode* first = head;
-    for(int i = 1; i < k; i++)
-        first = first->next;
+        ListNode* temp = head;
+        int c =0;
+        while(temp){
+            c++;
+            temp = temp->next;
+        }
+        int l_node = c-k;
 
-    ListNode* second = head;
-    ListNode* temp = first;
+       
+        ListNode* curr1=head;
+        ListNode* curr2 = head;
+        
 
-    while(temp->next){
-        temp = temp->next;
-        second = second->next;
-    }
-
-    swap(first->val, second->val);
-
-    return head;
+        while(curr1 && k!=1){
+            k--;
+            curr1 = curr1->next;
+        }
+        while(curr2 && l_node!=0){
+            l_node--;
+            curr2 = curr2->next;
+        }
+        swap(curr1->val , curr2->val);
+        return head;
     }
 };
