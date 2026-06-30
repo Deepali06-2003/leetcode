@@ -14,24 +14,15 @@ public:
         if(head == NULL || k==0) return head;
 
         ListNode* temp = head;
-        int c =0;
-        while(temp){
-            c++;
+        while(temp && k!=1){
+            k--;
             temp = temp->next;
         }
-        int l_node = c-k;
-
-       
-        ListNode* curr1=head;
+        ListNode* curr1 = temp;
+        temp = temp->next;
         ListNode* curr2 = head;
-        
-
-        while(curr1 && k!=1){
-            k--;
-            curr1 = curr1->next;
-        }
-        while(curr2 && l_node!=0){
-            l_node--;
+        while(temp){
+            temp= temp->next;
             curr2 = curr2->next;
         }
         swap(curr1->val , curr2->val);
