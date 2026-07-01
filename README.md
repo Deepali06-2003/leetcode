@@ -558,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0641-design-circular-deque](https://github.com/Deepali06-2003/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/Deepali06-2003/leetcode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1669-merge-in-between-linked-lists](https://github.com/Deepali06-2003/leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
