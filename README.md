@@ -553,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0622-design-circular-queue](https://github.com/Deepali06-2003/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Deepali06-2003/leetcode/tree/main/0641-design-circular-deque/) | Medium |
+| [0725-split-linked-list-in-parts](https://github.com/Deepali06-2003/leetcode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Two Pointers
