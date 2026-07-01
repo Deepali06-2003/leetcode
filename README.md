@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Deepali06-2003/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/Deepali06-2003/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/Deepali06-2003/leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1122-relative-sort-array](https://github.com/Deepali06-2003/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Deepali06-2003/leetcode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1306-jump-game-iii](https://github.com/Deepali06-2003/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Deepali06-2003/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Deepali06-2003/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Deepali06-2003/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [1122-relative-sort-array](https://github.com/Deepali06-2003/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Deepali06-2003/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Deepali06-2003/leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Deepali06-2003/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/Deepali06-2003/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Deepali06-2003/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Deepali06-2003/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1122-relative-sort-array](https://github.com/Deepali06-2003/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Deepali06-2003/leetcode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Deepali06-2003/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali06-2003/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -740,4 +743,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Deepali06-2003/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Deepali06-2003/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
