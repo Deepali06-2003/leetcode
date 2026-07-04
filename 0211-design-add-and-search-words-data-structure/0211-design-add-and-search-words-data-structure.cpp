@@ -1,46 +1,52 @@
 class WordDictionary {
 public:
 struct Node{
+    bool endW;
     Node* child[26];
-    bool endWord;
+
     Node(){
-        for(int i =0;i<26;i++)child[i]=NULL;
-        endWord = false;
+        endW = false;
+        for(int i=0;i<26;i++) child[i]=NULL;
     }
 };
-Node* root ;
+
+Node* root;
+
     WordDictionary() {
-        root = new Node();
+     root = new Node();        
     }
     
     void addWord(string word) {
-        Node* temp = root;
-        for(char c:word){
-            if(temp->child[c-'a'] == NULL)temp->child[c-'a'] = new Node();
-            temp = temp->child[c-'a'];
+        Node* t = root;
+        for(char c: word){
+            if(t->child[c-'a']==NULL) t->child[c-'a']= new Node();
+            t = t->child[c-'a'];
         }
-        temp->endWord = true;
+        t->endW = true;
     }
-    bool helper(string word , Node* root){
-        Node* temp = root;
-        for(int i =0;i<word.size(); i++){
-            char c = word[i];
-            if(c == '.'){
-                for(int j =0;j<26;j++){
-                    if(temp->child[j] != NULL){
-                        if(helper(word.substr(i+1) , temp->child[j] ))return true;
+    bool helper(Node* root, string word){
+         Node* t = root;
+
+        for(int i =0;i<word.size();i++){
+            char x = word[i];
+
+            if(x == '.'){
+                for(int j=0;j<26;j++){
+                    if(t->child[j]!=NULL){
+                        if(helper(t->child[j], word.substr(i+1)) )return true;
                     }
-                }return false;
+                }
+                return false;
             }
-
-            if(temp->child[c-'a'] == NULL)return false;
-            temp = temp->child[c-'a'];
+            else if(t->child[x-'a'] == NULL)return false;
+            t = t->child[x-'a'];
         }
-        return (temp->endWord)?true : false;
+        if(t->endW)return true;
+        return false;
     }
-
     bool search(string word) {
-        return helper(word , root);
+        
+       return helper(root, word);
     }
 };
 
