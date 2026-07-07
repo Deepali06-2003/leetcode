@@ -1,26 +1,23 @@
 class Solution {
 public:
     vector<int> partitionLabels(string s) {
+        vector<int>res;
         
         int n = s.size();
-        vector<int>res;
-
-        vector<int>mp(26, -1);
-        for(int i=0;i<n;i++)mp[s[i]-'a'] =i;
+        unordered_map<char, int>mp;
+        for(int i=0;i<n;i++)mp[s[i]] = i;
 
         int i=0;
         while(i<n){
-
-            int l_idx = mp[s[i]-'a'];
+            int l_idx = mp[s[i]];
 
             for(int j=i+1;j<=l_idx;j++){
-                if(mp[s[j]-'a'] > l_idx) l_idx = mp[s[j]-'a'];
+                l_idx = max( l_idx , mp[s[j]] );
             }
 
             res.push_back(l_idx-i+1);
-            i = 1+l_idx;
+            i = l_idx+1;
         }
         return res;
     }
 };
-
