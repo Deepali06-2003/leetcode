@@ -10,10 +10,10 @@ public:
                 break;
             }
         }
-        if( candidate != -1){
+        if(candidate != -1){
             int right_greater = candidate;
 
-            for(int j=n-1; j>= candidate+1 ; j--){
+            for(int j=n-1; j>candidate ; j--){
                 if(nums[candidate] < nums[j] ){
                     right_greater = j;
                     break;
