@@ -12,31 +12,27 @@
 class Solution {
 public:
 
-TreeNode* prev=NULL;
-TreeNode* f_ele=NULL;
-TreeNode* s_ele=NULL;
+TreeNode* prev = NULL;
+TreeNode* f = NULL;
+TreeNode* s = NULL;
 
 void helper(TreeNode* root){
     if(root == NULL)return;
 
     helper(root->left);
-
-    if(prev && prev->val > root->val){
-        if(f_ele == NULL){
-            f_ele = prev;
-            s_ele = root;
+    if(prev && root->val < prev->val){
+        if(f==NULL){
+            f = prev;
+            s = root;
         }
-        else s_ele = root;
+        else s= root;
     }
-    
     prev = root;
     helper(root->right);
 }
-    void recoverTree(TreeNode* root) {
-        
-        if(root == NULL) return;
 
+    void recoverTree(TreeNode* root) {
         helper(root);
-        swap(f_ele->val , s_ele->val);
+        swap(f->val, s->val);
     }
 };
