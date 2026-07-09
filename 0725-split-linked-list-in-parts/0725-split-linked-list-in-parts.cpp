@@ -13,7 +13,7 @@ public:
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
         
         vector<ListNode*>res;
-        if( k == 0){
+        if(k == 0){
             res.push_back(head);
             return res;
         }
@@ -40,17 +40,17 @@ public:
                 extra_ele--;
             }
 
-            int c = 1;
-            while(temp && (c != curr_size) ){
+            int c=1;
+            while(temp && c!= curr_size){
                 temp = temp->next;
                 c++;
             }
+
             if(temp){
-                ListNode* temp_n = temp->next;
+                ListNode* Ntemp = temp->next;
                 temp->next = NULL;
-                temp = temp_n;
+                temp = Ntemp;
             }
-            
             res.push_back(curr_h);
 
         }
