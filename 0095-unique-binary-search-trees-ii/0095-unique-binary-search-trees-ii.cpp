@@ -11,18 +11,17 @@
  */
 class Solution {
 public:
-vector<TreeNode*> helper(int start, int end){
-    if(start > end)return {NULL};
+
+vector<TreeNode*> helper( int s, int e){
+    if(s>e) return {NULL};
 
     vector<TreeNode*> ans;
+    for(int i =s;i<=e;i++){
+        vector<TreeNode*> lh = helper( s,i-1);
+        vector<TreeNode*> rh = helper(i+1, e);
 
-    for(int i=start ; i<= end ; i++){
-        vector<TreeNode*> l_tree = helper(start , i-1);
-        vector<TreeNode*> r_tree = helper(i+1, end);
-
-        for(auto l : l_tree){
-            for(auto r : r_tree){
-
+        for(auto l : lh){
+            for(auto r : rh){
                 TreeNode* root = new TreeNode(i);
                 root->left = l;
                 root->right = r;
@@ -34,9 +33,7 @@ vector<TreeNode*> helper(int start, int end){
     return ans;
 }
     vector<TreeNode*> generateTrees(int n) {
-        vector<TreeNode*>res;
-        if(n==0)return res;
-
-        return helper(1 , n);
+        vector<TreeNode*> ans = helper( 1, n);
+        return ans;
     }
 };
