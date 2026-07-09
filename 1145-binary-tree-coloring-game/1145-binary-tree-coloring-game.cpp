@@ -12,33 +12,33 @@
 class Solution {
 public:
 
-int helper(TreeNode* root){
-    if(root == NULL) return 0;
-    return 1 + helper(root->left) + helper(root->right);
-}
-
 TreeNode* findX(TreeNode* root, int x){
-    if(root== NULL) return NULL;
-    if(root->val == x)return root;
+    if(root==NULL) return NULL;
 
+    if(root->val == x) return root;
     TreeNode* lh = findX(root->left, x);
     if(lh) return lh;
     TreeNode* rh = findX(root->right, x);
     return rh;
 }
+
+int countNode(TreeNode* root){
+    if(root == NULL)return 0;
+    return 1+ countNode(root->left) + countNode(root->right);
+}
     bool btreeGameWinningMove(TreeNode* root, int n, int x) {
         
-        TreeNode* temp =findX(root, x);
-        if(temp == NULL)return false;
+        if(root == NULL) return false;
 
-        int lh = helper(temp->left);
-        if(lh > (n/2)) return true;
+        TreeNode* temp = findX(root, x);
 
-        int rh = helper(temp->right);
-        if(rh>(n/2)) return true;
+        int lh = countNode(temp->left);
+        if(lh > (n/2) ) return true;
 
-        if( (n - (lh+rh+1)) > (n/2) ) return true;
+        int rh = countNode(temp->right); 
+        if(rh > (n/2) ) return true;
 
+        if( (n-lh-rh-1) > (n/2) ) return true;
         return false;
     }
 };
