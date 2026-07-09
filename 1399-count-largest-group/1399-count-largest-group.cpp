@@ -1,30 +1,33 @@
 class Solution {
 public:
+
 int helper(int n){
-    int s=0;
-    while(n !=0){
-        s = s+ (n%10);
+    int s =0;
+    while(n!=0){
+        int d = n%10;
+        s = s+d;
         n = n/10;
     }
     return s;
 }
+
+
     int countLargestGroup(int n) {
-                    //sum , count
-        unordered_map<int  , int>mp;
-
-        for(int i =1;i<=n;i++){
-            int sum = helper(i);
-            mp[sum]++;
+        
+        unordered_map<int, int>mp;
+        for(int i=1;i<=n;i++){
+            int s = helper(i);
+            mp[s]++;
         }
 
-        vector<int>grp_f(n+1, 0);
+        vector<int>arr(n+1, 0);
         for(auto j: mp){
-            grp_f[j.second]++;
+            arr[j.second] += 1;
         }
 
-        for(int i = n;i>=0;i--){
-            if(grp_f[i] > 0) return grp_f[i];
+        for(int i=arr.size()-1;i>=0;i--){
+            if(arr[i]!=0) return arr[i];
         }
-        return -1;
+        return 0;
     }
 };
