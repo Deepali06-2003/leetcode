@@ -1,23 +1,28 @@
 class Solution {
 public:
     vector<int> relativeSortArray(vector<int>& arr1, vector<int>& arr2) {
-        
+            //ele , freq
         map<int, int>mp;
-        for(int i : arr1) mp[i]++;
+
+        for(int i : arr1){
+            mp[i]++;
+        }
 
         vector<int>res;
         for(int i : arr2){
-            if( mp.find(i) != mp.end() ){
-                for(int x = 0; x<mp[i]; x++){
+            if(mp.find(i) != mp.end()){
+                while(mp[i]!=0){
                     res.push_back(i);
+                    mp[i]--;
                 }
+                mp.erase(i);
             }
-            mp.erase(i);
         }
 
-        for(auto j : mp){
-            for(int x = 0; x<j.second; x++){
-                res.push_back(j.first);
+        for(auto i : mp){
+            while(i.second !=0){
+                res.push_back(i.first);
+                i.second--;
             }
         }
 
