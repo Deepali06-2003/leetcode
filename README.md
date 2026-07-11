@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Deepali06-2003/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/Deepali06-2003/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Deepali06-2003/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepali06-2003/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Deepali06-2003/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Deepali06-2003/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Deepali06-2003/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deepali06-2003/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -472,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepali06-2003/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/Deepali06-2003/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -746,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Deepali06-2003/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Deepali06-2003/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
