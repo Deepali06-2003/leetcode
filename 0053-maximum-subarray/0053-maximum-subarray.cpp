@@ -4,13 +4,14 @@ public:
         
         int n = nums.size();
 
-        int ans = INT_MIN, s=0;
+        int ans = INT_MIN, cur = 0;
 
-        for(int i: nums){
-            s = s+i;
-            ans = max(ans , s);
-            if(s < 0) s=0;
+        for(int i : nums){
+            cur = cur + i;
+            ans = max(ans , cur);
+            if(cur<0) cur = 0;
         }
+
         return ans;
     }
 };
