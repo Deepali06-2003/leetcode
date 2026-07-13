@@ -664,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/Deepali06-2003/leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/Deepali06-2003/leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deepali06-2003/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Counting
