@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepali06-2003/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0229-majority-element-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Deepali06-2003/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0260-single-number-iii/) | Medium |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Deepali06-2003/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Deepali06-2003/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0229-majority-element-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Deepali06-2003/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Deepali06-2003/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Deepali06-2003/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Deepali06-2003/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Deepali06-2003/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepali06-2003/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Deepali06-2003/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Deepali06-2003/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -677,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Deepali06-2003/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Deepali06-2003/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1399-count-largest-group](https://github.com/Deepali06-2003/leetcode/tree/main/1399-count-largest-group/) | Easy |
