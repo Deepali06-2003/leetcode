@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/Deepali06-2003/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Deepali06-2003/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepali06-2003/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Deepali06-2003/leetcode/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -624,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Deepali06-2003/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepali06-2003/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Deepali06-2003/leetcode/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -683,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1291-sequential-digits](https://github.com/Deepali06-2003/leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/Deepali06-2003/leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deepali06-2003/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Deepali06-2003/leetcode/tree/main/3403-find-the-lexicographically-largest-string-from-the-box-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
