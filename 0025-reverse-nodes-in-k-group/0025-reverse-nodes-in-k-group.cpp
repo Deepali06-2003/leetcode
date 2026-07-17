@@ -10,53 +10,54 @@
  */
 class Solution {
 public:
-ListNode* reverse(ListNode* head){
-    ListNode* prev = NULL;
-    while(head!=NULL){
-        ListNode* n_head = head->next;
-        head->next = prev;
+ListNode* KthNode(ListNode* head, int k){
+    if(head == NULL || k==0) return NULL;
+    k--;
+    while(head != NULL && k!=0){
+        k--;
+        head = head->next;
+    }
+        
+    return head;
+}
 
-        prev = head;
-        head = n_head;
+ListNode* reverse(ListNode* head){
+    if(head==NULL || head->next == NULL) return head;
+
+    ListNode* curr = head;
+    ListNode* n_curr = NULL;
+    ListNode* prev = NULL;
+
+    while(curr != NULL){
+        n_curr = curr ->next;
+        curr->next = prev;
+
+        prev = curr;
+        curr = n_curr;
     }
     return prev;
 }
-
-ListNode* get_k(ListNode* temp , int k){
-
-    k= k-1;
-    while(temp!= NULL && k>0){
-        k--;
-        temp = temp->next;
-    }
-    return temp;
-}
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if(head == NULL || k<=0)return head;
+        if(head == NULL || k<=0) return head;
+
+        ListNode* n_head = new ListNode(0);
+        ListNode* nTemp = n_head;
 
         ListNode* temp = head;
-        ListNode* new_head = new ListNode(0);
-        ListNode* t_new = new_head;
+        while(temp){
 
-        while(temp != NULL){
+            ListNode* k_n = KthNode(temp, k);
+            if(!k_n) break;
 
-            ListNode* k_node = get_k(temp , k);
+            ListNode* t_n = k_n->next;
+            k_n->next = NULL;
 
-            if(!k_node) break;
-            ListNode* n_temp = k_node->next;
-            k_node->next = NULL;
+            nTemp->next = reverse(temp);
 
-
-            t_new->next = reverse(temp);
-            t_new = temp;
-            temp->next = n_temp;
-            temp = n_temp;
-
+            nTemp = temp;
+            temp->next = t_n;
+            temp = t_n;
         }
-
-        return new_head->next;
-
+       return n_head->next;
     }
 };
-
-
