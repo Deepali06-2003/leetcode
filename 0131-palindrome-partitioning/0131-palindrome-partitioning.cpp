@@ -1,35 +1,34 @@
 class Solution {
 public:
-bool isPalindrome(string& s, int l, int h){
+bool Palindrome(string& s, int l , int h){
     while(l<h){
-        if(s[l]!=s[h])return false;
-        l++;
-        h--;
+        if(s[l] != s[h]) return false;
+        l++; h--;
     }
     return true;
 }
-void helper(string s, vector<vector<string>>& res,vector<string>& curr , int n ,int start){
-    if(start == n){
-        res.push_back(curr);
-        return;
-    }
 
-    for(int i =start ;i<n ;i++){
 
-        if(isPalindrome(s, start , i)){
-            curr.push_back( s.substr(start , i-start+1) );
-            helper(s, res, curr, n, i+1);
+void helper(string s, vector<vector<string>>& res, vector<string>& curr, int idx, int n ){
+    if( idx == n){
+        res.push_back(curr); 
+        return;}
+    
+    for(int i = idx ; i<n;i++){
+        if(Palindrome(s , idx , i)){
+            curr.push_back(s.substr(idx, i-idx+1));
+            helper(s, res, curr, i+1, n);
             curr.pop_back();
         }
     }
 }
     vector<vector<string>> partition(string s) {
-        
+        int n = s.size();
+
         vector<vector<string>>res;
         vector<string>curr;
 
-        int n = s.size();
-        helper(s, res, curr, n, 0);
+        helper(s, res, curr, 0, n);
         return res;
     }
 };
