@@ -1,48 +1,47 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        
-        int f =0,  r=0;
-        int n = grid.size(), m = grid[0].size();
+        int n = grid.size();
+        int m = grid[0].size();
         queue<pair<int, int>>q;
-
-        for(int i =0;i<n;i++){
-            for(int j =0;j<m;j++){
-                if(grid[i][j] == 1) f++;
-                else if(grid[i][j] == 2){
-                    r++;
+        int f=0, r=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==2){
                     q.push({i, j});
+                    r++;
                 }
+                else if(grid[i][j]==1) f++;
             }
         }
-        int ans=0;
-        if(f == 0) return ans;
+        if(f==0) return 0;
 
-        vector<int>dx = {0 , 0, 1, -1};
-        vector<int>dy = {1, -1, 0, 0};
+        int ans=0;
+        vector<int>dx = {1, -1, 0, 0};
+        vector<int>dy = {0,0, 1, -1};
 
         while(!q.empty()){
-            int s = q.size();
-            for(int i=0;i<s;i++){
-                pair<int, int> temp = q.front();
+
+            int sz = q.size();
+            for(int i=0;i<sz ;i++)
+            {
+                auto temp = q.front();
                 q.pop();
 
-                for(int j =0;j<4;j++){
+                for(int j=0;j<4;j++){
                     int nx = temp.first + dx[j];
                     int ny = temp.second + dy[j];
 
                     if(nx>=0 && ny>=0 && nx<n && ny<m && grid[nx][ny]==1){
-                        grid[nx][ny]=2;
-                        f--;
                         q.push({nx, ny});
+                        f--;
+                        grid[nx][ny]=2;
                     }
                 }
             }
-            
-            if(!q.empty()) ans++;
+            ans= ans+1;
+            if(f==0)return ans;
         }
-        if(f==0)return ans;
-        return -1;
+        return (f==0)? ans : -1;
     }
 };
-
