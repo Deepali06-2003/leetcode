@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Deepali06-2003/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Deepali06-2003/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Deepali06-2003/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1145-binary-tree-coloring-game](https://github.com/Deepali06-2003/leetcode/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1306-jump-game-iii](https://github.com/Deepali06-2003/leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Deepali06-2003/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/Deepali06-2003/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Deepali06-2003/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Deepali06-2003/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/Deepali06-2003/leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/Deepali06-2003/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Deepali06-2003/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Deepali06-2003/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Deepali06-2003/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Deepali06-2003/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Deepali06-2003/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Deepali06-2003/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
@@ -220,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Deepali06-2003/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Deepali06-2003/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -415,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Deepali06-2003/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Deepali06-2003/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepali06-2003/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Deepali06-2003/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0799-champagne-tower](https://github.com/Deepali06-2003/leetcode/tree/main/0799-champagne-tower/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Deepali06-2003/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Deepali06-2003/leetcode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
