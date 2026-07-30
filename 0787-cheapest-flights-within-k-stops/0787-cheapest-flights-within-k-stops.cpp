@@ -10,36 +10,33 @@ public:
 
             adj[u].push_back({v, c});
         }
+                // stops, node , dist
+        queue<pair<int, pair<int, int>>>q;
+        vector<int>dist(n, INT_MAX);
 
-              priority_queue<
-    pair<int, pair<int,int>>,
-    vector<pair<int, pair<int,int>>>,
-    greater<pair<int, pair<int,int>>>
-> pq;
-        vector<vector<int>> cost(n, vector<int>(k + 2, INT_MAX));
+        q.push({0, {src,0}});
+        dist[src]=0;
 
-        pq.push({0, {src, 0}});
-        cost[src][0] =0;
+        while(!q.empty()){
+            auto t = q.front();
+            q.pop();
 
-        while(!pq.empty()){
-            auto temp = pq.top();
-            pq.pop();
+            int stop = t.first , node = t.second.first , c_d = t.second.second;;
 
-            int c = temp.first , n = temp.second.first , stops = temp.second.second;;
+            if(stop > k) continue;
 
-            if(n == dst) return c;
-            if(stops == k+1) continue;
+            for(auto j : adj[node]){
+                int n = j.first;
+                int d = j.second;
 
-            for(auto j: adj[n]){
-                int curr_c = c + j.second;
-
-                if(curr_c < cost[j.first][stops+1]) {
-                    cost[j.first][stops+1] = curr_c;
-                    pq.push({curr_c , {j.first , stops+1}});
+                if(c_d+d < dist[n] && stop+1 <=k+1){
+                    dist[n] = c_d+d;
+                    q.push({stop+1 , {n, dist[n]}});
                 }
             }
         }
-        return -1;
+        if(dist[dst] == INT_MAX) return -1;
+        return dist[dst];
 
     }
 };
