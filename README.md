@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Deepali06-2003/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Deepali06-2003/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/Deepali06-2003/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Deepali06-2003/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepali06-2003/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/Deepali06-2003/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Deepali06-2003/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/Deepali06-2003/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Deepali06-2003/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepali06-2003/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Deepali06-2003/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Deepali06-2003/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Deepali06-2003/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0721-accounts-merge](https://github.com/Deepali06-2003/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0763-partition-labels](https://github.com/Deepali06-2003/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Deepali06-2003/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Deepali06-2003/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -325,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0622-design-circular-queue](https://github.com/Deepali06-2003/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Deepali06-2003/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Deepali06-2003/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepali06-2003/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0846-hand-of-straights](https://github.com/Deepali06-2003/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/Deepali06-2003/leetcode/tree/main/0853-car-fleet/) | Medium |
@@ -384,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Deepali06-2003/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Deepali06-2003/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/Deepali06-2003/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0763-partition-labels](https://github.com/Deepali06-2003/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/Deepali06-2003/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
@@ -575,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Deepali06-2003/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Deepali06-2003/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/Deepali06-2003/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/Deepali06-2003/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/Deepali06-2003/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Deepali06-2003/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -831,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Deepali06-2003/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Deepali06-2003/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/Deepali06-2003/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Deepali06-2003/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/Deepali06-2003/leetcode/tree/main/0886-possible-bipartition/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Deepali06-2003/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
