@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Deepali06-2003/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepali06-2003/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Deepali06-2003/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0827-making-a-large-island](https://github.com/Deepali06-2003/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0886-possible-bipartition](https://github.com/Deepali06-2003/leetcode/tree/main/0886-possible-bipartition/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1034-coloring-a-border](https://github.com/Deepali06-2003/leetcode/tree/main/1034-coloring-a-border/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Deepali06-2003/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepali06-2003/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Deepali06-2003/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0827-making-a-large-island](https://github.com/Deepali06-2003/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0886-possible-bipartition](https://github.com/Deepali06-2003/leetcode/tree/main/0886-possible-bipartition/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Deepali06-2003/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Deepali06-2003/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Deepali06-2003/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0827-making-a-large-island](https://github.com/Deepali06-2003/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0846-hand-of-straights](https://github.com/Deepali06-2003/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/Deepali06-2003/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Deepali06-2003/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -533,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepali06-2003/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0827-making-a-large-island](https://github.com/Deepali06-2003/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0994-rotting-oranges](https://github.com/Deepali06-2003/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1034-coloring-a-border](https://github.com/Deepali06-2003/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Deepali06-2003/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -839,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Deepali06-2003/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Deepali06-2003/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0827-making-a-large-island](https://github.com/Deepali06-2003/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0886-possible-bipartition](https://github.com/Deepali06-2003/leetcode/tree/main/0886-possible-bipartition/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Deepali06-2003/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
