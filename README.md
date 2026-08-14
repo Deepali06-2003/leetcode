@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1034-coloring-a-border](https://github.com/Deepali06-2003/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/Deepali06-2003/leetcode/tree/main/1145-binary-tree-coloring-game/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/Deepali06-2003/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Deepali06-2003/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Deepali06-2003/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepali06-2003/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Deepali06-2003/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0886-possible-bipartition](https://github.com/Deepali06-2003/leetcode/tree/main/0886-possible-bipartition/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/Deepali06-2003/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/Deepali06-2003/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Heap (Priority Queue)
@@ -898,4 +900,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Deepali06-2003/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Deepali06-2003/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Deepali06-2003/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
