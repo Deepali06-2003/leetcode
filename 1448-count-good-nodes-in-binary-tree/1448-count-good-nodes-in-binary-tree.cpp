@@ -11,24 +11,24 @@
  */
 class Solution {
 public:
-int prev = INT_MIN;
 
-void helper(TreeNode* root , int& ans, int prev){
+int c=0;
+
+void helper(TreeNode* root, int prev){
     if(root == NULL) return;
 
-    if(root->val >= prev){
-         ans = ans+1;
-         prev = root->val;
+    if(root->val>=prev){ 
+        c++;
+        prev = root->val;
     }
 
-    helper(root->left , ans , prev);
-    helper(root->right, ans , prev);
+    helper(root->left, prev);
+    helper(root->right, prev);
 }
     int goodNodes(TreeNode* root) {
-        int ans = 0;
-        int prev = INT_MIN;
+        if(root == NULL) return 0;
+        helper(root, root->val);
 
-        helper(root, ans , prev);
-        return ans;
+        return c;
     }
 };
