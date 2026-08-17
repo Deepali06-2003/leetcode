@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Deepali06-2003/leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Deepali06-2003/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Deepali06-2003/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Deepali06-2003/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Deepali06-2003/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/Deepali06-2003/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Deepali06-2003/leetcode/tree/main/0641-design-circular-deque/) | Medium |
