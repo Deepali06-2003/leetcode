@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Deepali06-2003/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Deepali06-2003/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Deepali06-2003/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Deepali06-2003/leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Deepali06-2003/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/Deepali06-2003/leetcode/tree/main/0355-design-twitter/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Deepali06-2003/leetcode/tree/main/0743-network-delay-time/) | Medium |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Deepali06-2003/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Deepali06-2003/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Deepali06-2003/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -543,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/Deepali06-2003/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepali06-2003/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/Deepali06-2003/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0827-making-a-large-island](https://github.com/Deepali06-2003/leetcode/tree/main/0827-making-a-large-island/) | Hard |
@@ -591,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Deepali06-2003/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Deepali06-2003/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Deepali06-2003/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/Deepali06-2003/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/Deepali06-2003/leetcode/tree/main/0721-accounts-merge/) | Medium |
