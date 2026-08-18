@@ -1,20 +1,23 @@
 class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        vector<pair<double , pair<int, int>>> res;
-
-        for(int i =0;i<points.size(); i++){
-
-            double x = (1LL*points[i][0]*points[i][0]) + (1LL*points[i][1] * points[i][1]);
-            res.push_back({x, {points[i][0] , points[i][1]} });
+        
+        vector<pair<unsigned long long, pair<int, int>>>arr;
+        
+        for(int i=0;i<points.size();i++){
+            unsigned long long d = ((points[i][0]*points[i][0]) + (points[i][1]*points[i][1]));
+            arr.push_back({d, {points[i][0] , points[i][1]} });
         }
 
-        sort(res.begin(), res.end());
-        vector<vector<int>>ans;
+        sort(arr.begin(), arr.end());
+        vector<vector<int>>res;
 
-        for(int i =0;i<k;i++){
-            ans.push_back({res[i].second.first , res[i].second.second});
+        for(int i=0;i<arr.size();i++){
+            vector<int>temp = {arr[i].second.first , arr[i].second.second};
+            res.push_back(temp);
+
+            if(res.size()==k) return res;
         }
-        return ans;
+        return res;
     }
 };
