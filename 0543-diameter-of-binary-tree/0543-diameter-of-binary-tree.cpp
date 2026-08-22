@@ -11,9 +11,7 @@
  */
 class Solution {
 public:
-
-int helper(TreeNode* root , int& ans){
-
+int helper(TreeNode* root, int& ans){
     if(root == NULL) return 0;
 
     int lh = helper(root->left, ans);
@@ -24,7 +22,8 @@ int helper(TreeNode* root , int& ans){
 }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root == NULL) return 0;
-        int ans =0;
+
+        int ans = INT_MIN;
         helper(root, ans);
         return ans;
     }
