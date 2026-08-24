@@ -13,11 +13,10 @@ public:
         mp['M'] = 1000;
 
         int ans=0;
-        for(int i=0;i<s.size();i++){
-
-            if( ((i+1) < s.size() ) && (mp[s[i+1]] > mp[s[i]]) ) ans = ans - mp[s[i]];
-            else ans = ans + mp[s[i]];
-        }
-        return ans;
+       for(int i=0;i<s.size();i++){
+        if(i+1<s.size() && mp[s[i]] < mp[s[i+1]]) ans = ans - mp[s[i]];
+        else ans = ans + mp[s[i]];
+       }
+       return ans;
     }
 };
