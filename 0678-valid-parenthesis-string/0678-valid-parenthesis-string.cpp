@@ -1,23 +1,23 @@
 class Solution {
 public:
 
-bool helper(string s, vector<vector<int>>& dp ,int n , int c , int i){
-    if(c<0) return false;
-    if(i == n) return (c == 0);
-    if(dp[i][c] != -1) return dp[i][c];
+bool helper(string s, int count, int i , vector<vector<int>>& dp){
+    if(i == s.size()) return (count==0);
+    if(count<0) return false;
 
-    if(s[i]=='(') return dp[i][c] = helper(s, dp , n, c+1 , i+1);
-    else if(s[i]==')') return dp[i][c] = helper(s, dp , n , c-1 , i+1);
-    else return dp[i][c] = helper(s, dp , n, c+1 , i+1) || helper(s, dp , n, c-1 , i+1) || helper(s, dp , n, c, i+1);
-    
+    if(dp[i][count]!=-1) return dp[i][count];
+
+    if(s[i]=='('){
+        return dp[i][count] =helper(s, count+1, i+1, dp);
+    }
+    else if(s[i]==')') return dp[i][count] =helper(s, count-1, i+1, dp);
+    else
+        return dp[i][count] = helper(s, count+1, i+1, dp) || helper(s, count-1, i+1, dp) || helper(s, count, i+1, dp);
 }
-
 
     bool checkValidString(string s) {
         int n = s.size();
         vector<vector<int>> dp(n+1 , vector<int>(n+1, -1));
-
-        return helper(s , dp , n, 0, 0);
-        
+       return helper(s, 0,0, dp);
     }
 };
