@@ -2,32 +2,36 @@ class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         
-        unordered_set<string>s;
-        for(string w : wordList) s.insert(w);
+        unordered_set<string>st;
+        for(string s: wordList) st.insert(s);
 
+        st.erase(beginWord);
         queue<pair<string, int>>q;
+
         q.push({beginWord, 1});
 
         while(!q.empty()){
-            string temp = q.front().first;
-            int step = q.front().second;
+            auto t = q.front();
             q.pop();
 
-            if(temp == endWord) return step;
-            for(int i=0;i<temp.size();i++){
+            string x = t.first;
+            int ans = t.second;
 
-                char x = temp[i];
-                for(char c='a'; c<='z'; c++){
-                    temp[i]=c;
-
-                    if(s.find(temp) != s.end()){
-                        q.push({temp, step+1});
-                        s.erase(temp);
+            if(x == endWord) return ans;
+            for(int i=0;i<x.size();i++){
+                char c = x[i];
+                
+                for(char y ='a'; y<='z';y++){
+                    x[i]=y;
+                    if(st.find(x) != st.end()){
+                        st.erase(x);
+                        q.push({x, ans+1});
                     }
                 }
-                temp[i] = x;
+                x[i]=c;
             }
         }
+
         return 0;
     }
 };
