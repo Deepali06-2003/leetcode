@@ -1,47 +1,39 @@
 class Solution {
 public:
-void helper(vector<vector<int>>& board, int n , int m , int i, int j, vector<vector<int>>& temp){
-    if(i<0 || j<0 || i>=n || j>=m ) return;
 
-    vector<int>dx = {0, 0, 1, -1, -1, 1, -1, 1};
-    vector<int>dy = {1, -1, 0, 0, -1 , -1, 1, 1};
+int helper(vector<vector<int>>& dp, int i, int j, int n, int m){
     int c=0;
 
-    for(int x =0;x<8;x++){
-        int nx = i + dx[x];
-        int ny = j + dy[x];
+    vector<int>dx = {0, 0, 1, -1, -1, -1, 1, 1};
+    vector<int>dy = {1, -1, 0 , 0, -1, 1 , -1 , 1};
+    for(int x=0;x<8;x++){
+        int nx = dx[x]+i;
+        int ny = dy[x]+j;
 
-        if(nx>=0 && ny>=0 && nx<n && ny<m && board[nx][ny]==1){
-            c++;
-        }
+        if(nx>=0 && ny>=0 && nx<n && ny<m && dp[nx][ny]==1) c++;
     }
 
-    if(board[i][j] == 1){
-        if(c==2 || c==3) temp[i][j] = 1;
-        else temp[i][j] =0;
+    if(dp[i][j]==1){
+        if(c==2 || c==3) return 1;
+        else return 0;
     }
     else{
-        if(c==3) temp[i][j] = 1;
-        else temp[i][j] =0;
+        if(c==3) return 1;
+        return 0;
     }
 }
     void gameOfLife(vector<vector<int>>& board) {
-        
-        int n = board.size();
-        int m = board[0].size();
 
-        vector<vector<int>> temp(n , vector<int>(m, -1));
+     int n = board.size(), m = board[0].size();
+     vector<vector<int>>dp(n, vector<int>(m , 0));
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                helper(board, n , m , i , j, temp);
-            }
+        dp = board;
+     for(int i=0;i<n;i++){
+        for(int j=0;j<m;j++){
+
+           board[i][j]= helper(dp, i, j , n , m);
         }
+     }  
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                board[i][j] = temp[i][j];
-            }
-        }
     }
 };
