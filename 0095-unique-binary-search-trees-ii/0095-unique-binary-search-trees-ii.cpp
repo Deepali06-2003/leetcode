@@ -11,29 +11,34 @@
  */
 class Solution {
 public:
-
 vector<TreeNode*> helper( int s, int e){
+
     if(s>e) return {NULL};
 
-    vector<TreeNode*> ans;
-    for(int i =s;i<=e;i++){
-        vector<TreeNode*> lh = helper( s,i-1);
-        vector<TreeNode*> rh = helper(i+1, e);
+    vector<TreeNode*> res;
+    for(int i=s;i<=e;i++){
 
-        for(auto l : lh){
-            for(auto r : rh){
+        vector<TreeNode*> ls = helper(s, i-1);
+        vector<TreeNode*> rs = helper( i+1, e);
+
+        for(auto l : ls){
+            for(auto r : rs){
                 TreeNode* root = new TreeNode(i);
                 root->left = l;
                 root->right = r;
 
-                ans.push_back(root);
+                res.push_back(root);
             }
-        }
+        }        
     }
-    return ans;
+    return res;
 }
     vector<TreeNode*> generateTrees(int n) {
-        vector<TreeNode*> ans = helper( 1, n);
-        return ans;
+
+        vector<TreeNode*>res;
+        if(n==0) return res;
+
+        res = helper(1, n);
+        return res;
     }
 };
