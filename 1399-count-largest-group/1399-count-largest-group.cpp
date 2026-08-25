@@ -2,32 +2,32 @@ class Solution {
 public:
 
 int helper(int n){
-    int s =0;
+    int s=0;
     while(n!=0){
-        int d = n%10;
-        s = s+d;
-        n = n/10;
+        s = s+ (n%10);
+        n= n/10;
     }
     return s;
 }
 
-
     int countLargestGroup(int n) {
         
-        unordered_map<int, int>mp;
+        unordered_map<int, int>mp; //sum of digit , count
+
         for(int i=1;i<=n;i++){
-            int s = helper(i);
-            mp[s]++;
+            int sum = helper(i);
+            mp[sum]++;
         }
 
-        vector<int>arr(n+1, 0);
+        vector<int>freq(n+1, 0);
         for(auto j: mp){
-            arr[j.second] += 1;
+            freq[j.second]++;
         }
 
-        for(int i=arr.size()-1;i>=0;i--){
-            if(arr[i]!=0) return arr[i];
+        for(int i=n;i>=0;i--){
+            if(freq[i]!=0) return freq[i];
         }
         return 0;
+
     }
 };
