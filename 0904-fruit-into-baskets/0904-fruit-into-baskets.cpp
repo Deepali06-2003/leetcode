@@ -15,7 +15,7 @@ public:
             }
             else{
                 mp[fruits[i]]--;
-                if(mp[fruits[i]] == 0)mp.erase(fruits[i]);
+              if(mp[fruits[i]]==0) mp.erase(fruits[i]);
                 i++;
             }j++;
         }
