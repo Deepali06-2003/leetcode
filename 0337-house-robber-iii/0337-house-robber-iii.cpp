@@ -12,22 +12,23 @@
 class Solution {
 public:
 
-pair<int,int> helper(TreeNode* root) {
+pair<int, int> helper(TreeNode* root){
 
-    if(root == NULL)
-        return {0,0};
+    if(root == NULL) return {0, 0};
 
-    auto left = helper(root->left);
-    auto right = helper(root->right);
+    auto l = helper(root->left);
+    auto r = helper(root->right);
 
-    int rob = root->val + left.second + right.second;
-    int not_rob = max(left.first, left.second) +  max(right.first, right.second);
+    int t = root->val + l.second + r.second;
+    int nt = max(l.first , l.second) + max(r.first , r.second);
 
-    return {rob, not_rob};
+    return {t, nt};
 }
     int rob(TreeNode* root) {
-        auto ans = helper(root);
+        
+        if(root == NULL) return 0;
 
-        return max(ans.first, ans.second);
+        auto temp = helper(root);
+        return max(temp.first, temp.second);
     }
 };
