@@ -11,49 +11,41 @@
 class Solution {
 public:
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
-        
-        vector<ListNode*>res;
-        if(k == 0){
-            res.push_back(head);
-            return res;
-        }
+        vector<ListNode*>ans;
+        if(k==0){ ans.push_back(head); return ans;}
 
         ListNode* temp = head;
-        int n = 0;
-        while(temp){
+        int c=0;
+        while(temp != NULL){
+            c++;
             temp = temp->next;
-            n++;
         }
 
-        int no_ele = n/k;
-        int  extra_ele = n%k;
-
+        int ele_grp = c/k;
+        int ele_e = c%k;
         temp = head;
-        
-        for(int i =1;i<=k;i++){
 
-            ListNode* curr_h = temp;
+        for(int i=0;i<k;i++){
             
-            int curr_size = no_ele;
-            if(extra_ele > 0){
-                curr_size +=1;
-                extra_ele--;
-            }
+            int ele = ele_grp ;
+            if(ele_e > 0){
+                 ele += 1;
+                ele_e--;}
 
-            int c=1;
-            while(temp && c!= curr_size){
-                temp = temp->next;
-                c++;
+            ListNode* h = NULL;
+            if(temp != NULL){
+                h = temp;
+                while(temp!=NULL && ele!=1){
+                    temp  = temp->next;
+                    ele--;
+                }
+                ListNode* t = temp;
+                if(temp != NULL){
+                    temp = temp->next;
+                    t->next = NULL;}
             }
-
-            if(temp){
-                ListNode* Ntemp = temp->next;
-                temp->next = NULL;
-                temp = Ntemp;
-            }
-            res.push_back(curr_h);
-
+            ans.push_back(h);
         }
-        return res;
+        return ans;
     }
 };
