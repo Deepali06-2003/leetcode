@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Deepali06-2003/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Deepali06-2003/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0957-prison-cells-after-n-days](https://github.com/Deepali06-2003/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Deepali06-2003/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/Deepali06-2003/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1034-coloring-a-border](https://github.com/Deepali06-2003/leetcode/tree/main/1034-coloring-a-border/) | Medium |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Deepali06-2003/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Deepali06-2003/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0957-prison-cells-after-n-days](https://github.com/Deepali06-2003/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [1122-relative-sort-array](https://github.com/Deepali06-2003/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Deepali06-2003/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Deepali06-2003/leetcode/tree/main/1399-count-largest-group/) | Easy |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Deepali06-2003/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0504-base-7](https://github.com/Deepali06-2003/leetcode/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/Deepali06-2003/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0957-prison-cells-after-n-days](https://github.com/Deepali06-2003/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Deepali06-2003/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1399-count-largest-group](https://github.com/Deepali06-2003/leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Deepali06-2003/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -807,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Deepali06-2003/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/Deepali06-2003/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Deepali06-2003/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0957-prison-cells-after-n-days](https://github.com/Deepali06-2003/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -960,4 +964,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepali06-2003/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0957-prison-cells-after-n-days](https://github.com/Deepali06-2003/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 <!---LeetCode Topics End-->
