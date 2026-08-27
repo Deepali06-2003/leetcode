@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Deepali06-2003/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Deepali06-2003/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0853-car-fleet](https://github.com/Deepali06-2003/leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0901-online-stock-span](https://github.com/Deepali06-2003/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Deepali06-2003/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -522,12 +523,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0622-design-circular-queue](https://github.com/Deepali06-2003/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Deepali06-2003/leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0901-online-stock-span](https://github.com/Deepali06-2003/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0901-online-stock-span](https://github.com/Deepali06-2003/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -816,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Deepali06-2003/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Deepali06-2003/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Deepali06-2003/leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0901-online-stock-span](https://github.com/Deepali06-2003/leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
