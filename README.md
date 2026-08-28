@@ -972,4 +972,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepali06-2003/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
