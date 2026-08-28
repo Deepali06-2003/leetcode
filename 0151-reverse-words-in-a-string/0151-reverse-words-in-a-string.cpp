@@ -1,19 +1,17 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        
         string ans="";
-        string token="";
-        int n = s.size();
-
+        string t="";
         stringstream ss(s);
 
-        while(getline(ss, token, ' ')){
-            if(token == "") continue;
-            if(ans.empty()) ans = token;
-            else ans = token + " "+ ans;
+        while(getline(ss, t, ' ')){
+            if(t == "") continue;
+            if(ans.empty()) ans = t;
+            else ans = t + " "+ans;
         }
-
         return ans;
     }
 };
+
+
