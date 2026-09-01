@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Deepali06-2003/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Deepali06-2003/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Deepali06-2003/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepali06-2003/leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Deepali06-2003/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0214-shortest-palindrome](https://github.com/Deepali06-2003/leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/Deepali06-2003/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Deepali06-2003/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0412-fizz-buzz](https://github.com/Deepali06-2003/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepali06-2003/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0504-base-7](https://github.com/Deepali06-2003/leetcode/tree/main/0504-base-7/) | Easy |
@@ -801,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Deepali06-2003/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Deepali06-2003/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Bit Manipulation
