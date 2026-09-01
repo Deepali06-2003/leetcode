@@ -14,45 +14,46 @@ bool isValid(string s){
 }
     vector<string> removeInvalidParentheses(string s) {
         queue<string>q;
-        unordered_set<string>visited;
+        unordered_set<string>st;
 
         q.push(s);
-        visited.insert(s);
+        st.insert(s);
 
         vector<string>ans;
         bool found = false;
+        
+        while(!q.empty()){
+            
+                string temp = q.front();
+                q.pop();
 
-    while (!q.empty() && !found) {
-        int size = q.size();
+                if(isValid(temp)){
+                    found = true;
 
-        while (size--) {
-            string x = q.front();
-            q.pop();
-
-            if (isValid(x)) {
-                ans.push_back(x);
-                found = true;
-                continue;
-            }
-
-            // Don't generate next level once a valid level is found
-            if (found)
-                continue;
-
-            for (int i = 0; i < x.size(); i++) {
-
-                // Only remove parentheses
-                if (x[i] != '(' && x[i] != ')')continue;
-
-                string removed = x.substr(0, i) + x.substr(i + 1);
-                cout<<removed<<' ';
-                if (visited.find(removed) == visited.end()) {
-                    visited.insert(removed);
-                    q.push(removed);
+                    ans.push_back(temp);
+                    while(!q.empty()){
+                        string x = q.front();
+                        q.pop();
+                        if(isValid(x)){
+                            ans.push_back(x);
+                        }
+                    }
+                    break;
                 }
-            }
+
+                for(int idx = 0;idx<temp.size();idx++){
+                    if(temp[idx]=='(' || temp[idx]==')'){
+                        string remove = temp.substr(0, idx) + temp.substr(idx+1);
+
+                        if(st.find(remove)==st.end()){
+                            st.insert(remove);
+                            q.push(remove);
+                        }
+                    }
+                }
+
+            
         }
-    }
         return ans;
     }
 };
