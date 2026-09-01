@@ -2,27 +2,30 @@ class Solution {
 public:
     string simplifyPath(string path) {
         
-        string token = "";
+        string s="";
         stringstream ss(path);
+
         stack<string>st;
 
-        while(getline(ss , token , '/')){
-            if(token == "" || token == "." ) continue;
-            
-            if(token == ".."){
+        while(getline(ss, s, '/')){
+            if(s=="." || s=="") continue;
+            else if(s==".."){
                 if(!st.empty()) st.pop();
             }
             else{
-                st.push(token);
+                st.push(s);
             }
         }
 
-        string ans = "";
+        string ans="";
         while(!st.empty()){
-            ans = "/" + st.top() +ans;
+            string x = st.top();
             st.pop();
+
+            if(ans.size()==0) ans = '/'+x;
+            else ans = '/'+x+ans;
         }
-        
-        return ans.empty() ? "/" : ans;
+        if(ans.size()==0) return "/";
+        return ans;
     }
 };
