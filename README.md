@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1145-binary-tree-coloring-game](https://github.com/Deepali06-2003/leetcode/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/Deepali06-2003/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0827-making-a-large-island](https://github.com/Deepali06-2003/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0886-possible-bipartition](https://github.com/Deepali06-2003/leetcode/tree/main/0886-possible-bipartition/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1034-coloring-a-border](https://github.com/Deepali06-2003/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/Deepali06-2003/leetcode/tree/main/1145-binary-tree-coloring-game/) | Medium |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/Deepali06-2003/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0827-making-a-large-island](https://github.com/Deepali06-2003/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0886-possible-bipartition](https://github.com/Deepali06-2003/leetcode/tree/main/0886-possible-bipartition/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Deepali06-2003/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1034-coloring-a-border](https://github.com/Deepali06-2003/leetcode/tree/main/1034-coloring-a-border/) | Medium |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1145-binary-tree-coloring-game](https://github.com/Deepali06-2003/leetcode/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -420,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Deepali06-2003/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/Deepali06-2003/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0957-prison-cells-after-n-days](https://github.com/Deepali06-2003/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1122-relative-sort-array](https://github.com/Deepali06-2003/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Deepali06-2003/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Deepali06-2003/leetcode/tree/main/1399-count-largest-group/) | Easy |
@@ -620,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/Deepali06-2003/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Deepali06-2003/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Deepali06-2003/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1122-relative-sort-array](https://github.com/Deepali06-2003/leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Deepali06-2003/leetcode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Deepali06-2003/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
