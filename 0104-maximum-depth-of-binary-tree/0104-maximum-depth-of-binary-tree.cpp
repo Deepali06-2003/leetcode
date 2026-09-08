@@ -11,17 +11,21 @@
  */
 class Solution {
 public:
-int helper(TreeNode* root){
+int helper(TreeNode* root, int& ans, int c){
     if(root == NULL) return 0;
 
-    int lh = helper(root->left);
-    int rh = helper(root->right);
+    ans = max(ans, c);
 
-    return 1+ max(lh,rh);
+    int lh = helper(root->left, ans, c);
+    int rh = helper(root->right, ans, c);
 
+    return  max(lh, rh)+1;
 }
     int maxDepth(TreeNode* root) {
+        if(root == NULL) return 0;
+
+        int ans = INT_MIN;
+        return helper(root , ans , 0);
         
-        return helper(root);
     }
 };
