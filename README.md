@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/Deepali06-2003/leetcode/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Deepali06-2003/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepali06-2003/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/Deepali06-2003/leetcode/tree/main/1145-binary-tree-coloring-game/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## String
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-prison-cells-after-n-days](https://github.com/Deepali06-2003/leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Deepali06-2003/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/Deepali06-2003/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1034-coloring-a-border](https://github.com/Deepali06-2003/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1046-last-stone-weight](https://github.com/Deepali06-2003/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1122-relative-sort-array](https://github.com/Deepali06-2003/leetcode/tree/main/1122-relative-sort-array/) | Easy |
@@ -538,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Deepali06-2003/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0853-car-fleet](https://github.com/Deepali06-2003/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Deepali06-2003/leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Deepali06-2003/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -859,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Deepali06-2003/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Deepali06-2003/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Deepali06-2003/leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
