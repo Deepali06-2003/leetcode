@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/Deepali06-2003/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0162-find-peak-element](https://github.com/Deepali06-2003/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -311,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Deepali06-2003/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Deepali06-2003/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepali06-2003/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -747,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepali06-2003/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Deepali06-2003/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/Deepali06-2003/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Deepali06-2003/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepali06-2003/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
