@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepali06-2003/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepali06-2003/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Deepali06-2003/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepali06-2003/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/0889-construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
