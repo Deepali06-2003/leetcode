@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/Deepali06-2003/leetcode/tree/main/1145-binary-tree-coloring-game/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1192-critical-connections-in-a-network](https://github.com/Deepali06-2003/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Deepali06-2003/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Deepali06-2003/leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Deepali06-2003/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali06-2003/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Deepali06-2003/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepali06-2003/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepali06-2003/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1145-binary-tree-coloring-game](https://github.com/Deepali06-2003/leetcode/tree/main/1145-binary-tree-coloring-game/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -508,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1262-greatest-sum-divisible-by-three](https://github.com/Deepali06-2003/leetcode/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepali06-2003/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Deepali06-2003/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1003,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
