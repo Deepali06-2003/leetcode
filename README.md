@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Deepali06-2003/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0337-house-robber-iii/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Deepali06-2003/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Deepali06-2003/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Deepali06-2003/leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0162-find-peak-element](https://github.com/Deepali06-2003/leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Deepali06-2003/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -172,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali06-2003/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepali06-2003/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Deepali06-2003/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Deepali06-2003/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/Deepali06-2003/leetcode/tree/main/0337-house-robber-iii/) | Medium |
