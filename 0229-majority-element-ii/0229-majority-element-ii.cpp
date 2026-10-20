@@ -1,39 +1,49 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int n = nums.size();
+        
+       int n = nums.size();
+    int n1 = 0, n2 = 0;
+    int c1 = 0, c2 = 0;
 
-        int a = nums[0];
-        int b ;
-        if(n>=2 && nums[0] != nums[1]) b= nums[1];
-
-        int c1 = 0, c2=0;
-
-        for(int i=0;i<n;i++){
-            if(nums[i] == a) c1++;
-            else if(nums[i] == b) c2++;
-            else if(c1 ==0){
-                c1=1;
-                a = nums[i];
-            }
-            else if(c2 ==0){
-                c2 =1;
-                b = nums[i];
-            }
-            else{
-                c1--; c2--;
-            }
+    for (int i = 0; i < n; i++) {
+        if (c1 > 0 && nums[i] == n1) {
+            c1++;
         }
-
-        c1 =0, c2=0;
-        for(int i=0;i<n;i++){
-            if(nums[i] == a) c1++;
-            if(nums[i] == b) c2++;
+        else if (c2 > 0 && nums[i] == n2) {
+            c2++;
         }
+        else if (c1 == 0) {
+            n1 = nums[i];
+            c1 = 1;
+        }
+        else if (c2 == 0) {
+            n2 = nums[i];
+            c2 = 1;
+        }
+        else {
+            c1--;
+            c2--;
+        }
+    }
 
-        vector<int>res;
-        if(c1 > (n/3))res.push_back(a);
-        if(a != b && c2>(n/3)) res.push_back(b);
-        return res;
+    c1 = 0;
+    c2 = 0;
+
+    for (int i = 0; i < n; i++) {
+        if (nums[i] == n1) c1++;
+        else if (nums[i] == n2) c2++;
+    }
+
+    vector<int> res;
+
+    if (c1 > n / 3) res.push_back(n1);
+    if (c2 > n / 3 && n1 != n2) res.push_back(n2);
+
+    return res;
     }
 };
+
+
+
+    
