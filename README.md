@@ -1042,6 +1042,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Deepali06-2003/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Deepali06-2003/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
