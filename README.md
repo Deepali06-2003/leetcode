@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Deepali06-2003/leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepali06-2003/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Deepali06-2003/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1851-minimum-interval-to-include-each-query](https://github.com/Deepali06-2003/leetcode/tree/main/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Deepali06-2003/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Deepali06-2003/leetcode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Deepali06-2003/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2013-detect-squares](https://github.com/Deepali06-2003/leetcode/tree/main/2013-detect-squares/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Deepali06-2003/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Deepali06-2003/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Deepali06-2003/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1034-coloring-a-border](https://github.com/Deepali06-2003/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Deepali06-2003/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Deepali06-2003/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepali06-2003/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Greedy
