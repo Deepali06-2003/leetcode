@@ -2,9 +2,12 @@ class Solution {
 public:
 
 bool helper(vector<int>& piles, int h, int m){
-    int ans=0;
-    for(int i : piles) ans = ans + (ceil)((i*1.0)/m);
-    return ans <= h;
+
+    double ans =0;
+    for(int i:piles){
+        ans = ans+ (ceil)(i*1.0/m);
+    }
+    return ans <=h;
 }
     int minEatingSpeed(vector<int>& piles, int h) {
         
